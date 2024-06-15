@@ -40,7 +40,7 @@
                        <a> Gol de Placa </a>  
                     </div>
                     <ul class="ul">
-                        <li> <a href="jogadores.html"> Jogadores </a> </li>
+                        <li> <a href="jogadores.php"> Jogadores </a> </li>
                         <li> <a href="ligas.php"> Ligas </a> </li>
                         <li> <a href="sair.php"> <button class="btn-gradient">Sair</button></a> </li>
                     </ul>
@@ -59,7 +59,7 @@
                     <h1>FutePaixão</h1>
                     <h2>Todas as ligas de futebol</h2>
                     <div>
-                        <a href="ligas.html"><button class="btn-gradient">Pesquisar agora</button></a>
+                        <a href="ligas.php"><button class="btn-gradient">Pesquisar agora</button></a>
                         <img src="img/verificado.png" alt="Verificado">
                     </div>
                     </div>
@@ -178,7 +178,8 @@
             <!--ul3-->
             <ul>
                 <h3>Consultar ligas</h3>
-                <li><a href="ligas.html">API</a></li>
+                <li><a href="ligas.php">API</a></li>
+                <li><a href="jogadores.php">Ranking de melhores jogadores</a></li>
             </ul>
             <!--fim ul3-->
             <!--ul4-->
